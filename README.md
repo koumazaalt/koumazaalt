@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-Plz visit gb.com/kmz
+Plz visit **gb.com/kmz**(github.com/koumaza)
 
-
-<!--
-**koumazaalt/koumazaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+< !--koumazaalt/koumazaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your 
+GitHub profile.
 
 Here are some ideas to get you started:
 
